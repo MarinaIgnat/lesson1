@@ -1,6 +1,7 @@
-a = 'Капибара'
-print(a[:1])
-print(a[-1:])
-print(a[-3:])
-print(a[::-1])
-print('Капибара'[1])
+Homework = 12
+time = 1,5
+course = 'Python'
+speed = 0,125
+
+print('Курс:', course, 'всего задач:', Homework, 'затрачено часов:', 1,5, 'среднее время выполнения',
+speed, 'часа')
